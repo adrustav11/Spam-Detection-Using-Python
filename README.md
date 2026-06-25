@@ -1,7 +1,7 @@
 # Spam-Detection-Using-Python
 
 ## Description 
-The Spam Message Detector** is a Machine Learning project that classifies text messages as Spam or Normal (Ham). It uses the Multinomial Naive Bayes algorithm with TF-IDF Vectorization to analyze message content and predict whether a message is spam. The project includes a simple and user-friendly Tkinter GUI, allowing users to enter a message, detect spam, view the prediction confidence, and see the model accuracy.
+The Spam Message Detector is a Machine Learning project that classifies text messages as Spam or Normal (Ham). It uses the Multinomial Naive Bayes algorithm with TF-IDF Vectorization to analyze message content and predict whether a message is spam. The project includes a simple and user-friendly Tkinter GUI, allowing users to enter a message, detect spam, view the prediction confidence, and see the model accuracy.
 
 ##  Features
 - Detects whether a message is Spam or Normal (Ham).
