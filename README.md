@@ -50,7 +50,7 @@ pip install pandas scikit-learn
 ##  Run the Project
 
 ```
-python spam_detector.py
+python spam_detection.py
 ```
 
 ## 🔄 Working Process
