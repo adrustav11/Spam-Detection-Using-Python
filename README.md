@@ -33,7 +33,7 @@ The Spam Message Detector** is a Machine Learning project that classifies text m
 ```
 Spam-Message-Detector/
 │── spam.csv
-│── spam_detector.py
+│── spam_detection.py
 
 ```
 
